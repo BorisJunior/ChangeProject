@@ -1,0 +1,1 @@
+ici tu écriras le code des insertions s'il y en a toujours ;) de transactions à faire dans la bd je pense ...Toi même tu peux revoir comment faire ça mais bon voilà
